@@ -19,3 +19,5 @@ private void ScheduleOnAppointmentDrop(object sender, AppointmentDropEventArgs e
 }
 ```
 **Output**
+
+![DragAndDrop](https://github.com/SyncfusionExamples/drag-and-drop-schedule-xamarin/blob/master/Screenshots/DragAndDrop.gif)
